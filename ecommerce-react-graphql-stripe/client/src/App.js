@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NewComp from './components/NewComp';
+// import NewComp from './components/NewComp';
 import './components/App.css';
 
 

@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import 'gestalt/dist/gestalt.css';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import 'gestalt/dist/gestalt.css';
 
 import App from './App';
 import Signin from './components/Signin';
